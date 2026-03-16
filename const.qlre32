@@ -1,5 +1,6 @@
 <qrll>
-msg --> Hello, world;
+msg --> Hello, world
+1;
 outf;
 endl;
 <qrll:end>
